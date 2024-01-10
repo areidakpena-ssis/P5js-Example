@@ -12,7 +12,7 @@ function setup() {
       let xPos = j*D + (D/2);
       let yPos = i*D + D/2;
       
-      fill(80,255, 80);
+      fill(255,40, 255);
       
       circle(xPos, yPos, D);
       
